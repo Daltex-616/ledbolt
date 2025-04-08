@@ -8,7 +8,7 @@ export const ProductGrid = () => {
       name: "Premium Game Package",
       description: "Fast response and delivery",
       price: 89.99,
-      image: "https://via.placeholder.com/400x300/1a1f2c/ffffff",
+      image: "https://imgs.search.brave.com/9mohU_QkcMkRHoGqjcfFFq_BtRh3iEf4cGav_P5iwCQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vp/SGZLQ0pHUVlGQ0VZ/UDJJUEFiQlZlTlJk/MTZNSEVJTjJNUzIt/a0h6OWUzRnVGVzVk/Q1ROcmNDaVpoY0Nm/NFgzQlR0TUo1MnFy/eHU5TDVHOWxSU0FL/c3BrbEpKUk9pUm9r/WXhIX3FvZ1FfYWw5/eTFKLTlEck0tR1Mx/bTdJR1lrcFZZbjNJ/a1RPX0REMzNxQzBl/WkJZMmZZOGZqT011/b0lOakF1UUNjdG05/Y0Q2LTN0Qy1Jb0RC/VTdfenhvMHMvdzMy/MC1oMzIwL2dhbGx5/d2l4LmpwZw",
       rating: 4.5,
       tag: "Hot Offer!",
       features: [
@@ -22,7 +22,7 @@ export const ProductGrid = () => {
       name: "Mythic+ Bundle",
       description: "Complete achievements",
       price: 149.99,
-      image: "https://via.placeholder.com/400x300/1a1f2c/ffffff",
+      image: "https://cdn.altertime.es/9b4fb79b-d8bf-46a6-ae38-9441037d942e.png",
       rating: 4.8,
       tag: "Christmas Sale",
       features: [
@@ -36,7 +36,7 @@ export const ProductGrid = () => {
       name: "Raid Package",
       description: "Full raid clear",
       price: 79.99,
-      image: "https://via.placeholder.com/400x300/1a1f2c/ffffff",
+      image: "https://bnetcmsus-a.akamaihd.net/cms/blog_header/ka/KACBVIYAK0OJ1607030380736.jpg",
       rating: 4.2,
       tag: "Hot Offer!",
       features: [
@@ -50,34 +50,7 @@ export const ProductGrid = () => {
       name: "Special Bundle",
       description: "All-inclusive package",
       price: 199.99,
-      image: "https://via.placeholder.com/400x300/1a1f2c/ffffff",
-      rating: 4.7,
-      tag: "Hot Offer!",
-      features: [
-        "Bonus runs",
-        "Varying key difficulty",
-        "Comes with 3 free traders"
-      ]
-    },
-    {
-      id: 5,
-      name: "Special Bundle",
-      description: "All-inclusive package",
-      price: 199.99,
-      image: "https://via.placeholder.com/400x300/1a1f2c/ffffff",
-      rating: 4.7,
-      tag: "Hot Offer!",
-      features: [
-        "Bonus runs",
-        "Varying key difficulty",
-        "Comes with 3 free traders"
-      ]
-    },{
-      id: 6,
-      name: "Special Bundle",
-      description: "All-inclusive package",
-      price: 199.99,
-      image: "https://via.placeholder.com/400x300/1a1f2c/ffffff",
+      image: "https://wow.zamimg.com/uploads/blog/images/43600-special-warcraft-story-for-shadow-priests-xalatath-notices-you.jpg",
       rating: 4.7,
       tag: "Hot Offer!",
       features: [

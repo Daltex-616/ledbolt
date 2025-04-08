@@ -5,20 +5,20 @@ export const Testimonials = () => {
     {
       name: "Alex K.",
       role: "falopero",
-      content: "maaaan son recontra gooooooood!",
+      content: "Rapidos y confiables, me ayudaron a conseguir lo que queria",
       rating: 5
     },
     {
       name: "Sarah M.",
       role: "Streamer",
-      content: "me rompieron el orto y no dolio",
+      content: "precio calidad, lo mejor que hay!!",
       rating: 5
     },
     {
       name: "John D.",
       role: "Casual Player",
       content: "lo mejor que me paso en la vida",
-      rating: 1
+      rating: 4
     }
   ];
   return (

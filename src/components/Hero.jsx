@@ -6,8 +6,8 @@ export const Hero = () => {
       <div className="container mx-auto px-4 relative">
         <div className="max-w-4xl">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            pedi todo porfi
-            <span className="block text-[#8b5cf6]">Denme plata</span>
+            Mejores servicios
+            <span className="block text-[#8b5cf6]">de todo retail</span>
           </h1>
         </div>
       </div>
